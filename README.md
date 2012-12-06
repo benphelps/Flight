@@ -1,4 +1,4 @@
-Flight
+Flight Control
 ======
 
-A Server Control Panel that uses Lighttpd.
+A server control panel that uses Lighttpd.
